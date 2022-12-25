@@ -1,0 +1,6 @@
+[submodule "cs-cache-rook"]
+	path = cs-cache-rook
+	url = https://github.com/5enthilbaliah/cs-cache-rook.git
+[submodule "cs-identity-rook"]
+	path = cs-identity-rook
+	url = https://github.com/5enthilbaliah/cs-identity-rook.git
